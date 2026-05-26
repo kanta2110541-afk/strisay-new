@@ -23,8 +23,10 @@ export function WeeklyChart({ weeks, selectedWeek, selectedType, onBarClick }: P
     苦手: w.weak_count,
   }));
 
-  const handleBarClick = (type: SelectionType) => (barData: { weekFull?: string }) => {
-    if (onBarClick && barData.weekFull) onBarClick(barData.weekFull, type);
+  const handleBarClick = (type: SelectionType) => (barData: unknown) => {
+    if (onBarClick && barData !== null && typeof barData === "object" && "weekFull" in barData) {
+      onBarClick((barData as { weekFull: string }).weekFull, type);
+    }
   };
 
   const isSelected = (weekFull: string, type: SelectionType) =>
