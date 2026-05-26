@@ -599,6 +599,486 @@
     "en": "Employee turnover has increased significantly this year.",
     "ja": "今年は従業員の離職率が大幅に増加しています。"
   },
+  "151": {
+    "en": "The company plans to open a new office in the adjacent building next quarter.",
+    "ja": "その企業は来四半期に隣接したビルに新しいオフィスをオープンする予定です。"
+  },
+  "152": {
+    "en": "The finance department administers the company's budget allocation and expense management.",
+    "ja": "財務部門は会社の予算配分と経費管理を管理しています。"
+  },
+  "153": {
+    "en": "Adverse weather conditions delayed the project completion by two weeks.",
+    "ja": "悪天候がプロジェクトの完了を2週間遅延させました。"
+  },
+  "154": {
+    "en": "We need to aggregate the quarterly sales data from all regional offices before the board meeting.",
+    "ja": "役員会議前に、すべての地域オフィスから四半期売上データを集計する必要があります。"
+  },
+  "155": {
+    "en": "The contract dispute was resolved through arbitration rather than going to court.",
+    "ja": "その契約紛争は裁判に行くのではなく、仲裁を通じて解決されました。"
+  },
+  "156": {
+    "en": "The external auditor will conduct a comprehensive audit of our financial statements next month.",
+    "ja": "外部監査人は来月、当社の財務諸表の包括的な監査を実施します。"
+  },
+  "157": {
+    "en": "Our autonomous decision-making system processes market data without human intervention.",
+    "ja": "当社の自律的意思決定システムは人間の干渉なしに市場データを処理します。"
+  },
+  "158": {
+    "en": "We need to calibrate our sales targets based on the latest market analysis.",
+    "ja": "最新の市場分析に基づいて営業目標を調整する必要があります。"
+  },
+  "159": {
+    "en": "The company attempted to circumvent import regulations, which resulted in legal consequences.",
+    "ja": "その企業は輸入規制を回避しようとしましたが、法的な結果をもたらしました。"
+  },
+  "160": {
+    "en": "The termination clause in the employment contract allows either party to end the agreement with 30 days' notice.",
+    "ja": "雇用契約の解除条項により、どちらの当事者も30日の通知で契約を終了できます。"
+  },
+  "161": {
+    "en": "The business proposal presented a coherent strategy that aligned with our long-term objectives.",
+    "ja": "その事業提案は、当社の長期目標と一致した一貫性のある戦略を示しました。"
+  },
+  "162": {
+    "en": "The comprehensive report included financial analysis, market trends, and risk assessments.",
+    "ja": "その包括的なレポートには、財務分析、市場動向、およびリスク評価が含まれていました。"
+  },
+  "163": {
+    "en": "Please provide a concise summary of the key findings within two pages.",
+    "ja": "2ページ以内で主な結果の簡潔な要約を提供してください。"
+  },
+  "164": {
+    "en": "All confidential client information must be stored in a secure database with restricted access.",
+    "ja": "すべての機密クライアント情報は、アクセス制限のあるセキュアなデータベースに保存する必要があります。"
+  },
+  "165": {
+    "en": "We reached consensus among all department heads regarding the new corporate policy.",
+    "ja": "新しい企業ポリシーに関して、すべての部長間で合意に達しました。"
+  },
+  "166": {
+    "en": "The company plans to consolidate its subsidiary operations to improve efficiency.",
+    "ja": "その企業は効率性を向上させるために子会社事業を統合する予定です。"
+  },
+  "167": {
+    "en": "Every business should develop a contingency plan to address unexpected operational disruptions.",
+    "ja": "すべてのビジネスは、予期しない業務中断に対応するための緊急対応計画を策定すべきです。"
+  },
+  "168": {
+    "en": "Our counterpart in the Japanese subsidiary will attend the international trade negotiation.",
+    "ja": "日本の子会社における当社の相手方は国際貿易交渉に出席します。"
+  },
+  "169": {
+    "en": "The cumulative effect of small cost reductions resulted in significant annual savings.",
+    "ja": "小さなコスト削減の累積効果は、相当な年間節約をもたらしました。"
+  },
+  "170": {
+    "en": "The audit identified several deficiencies in our internal control procedures.",
+    "ja": "監査は当社の内部統制手順におけるいくつかの欠陥を特定しました。"
+  },
+  "171": {
+    "en": "The company depreciates its equipment over five years according to accounting standards.",
+    "ja": "その企業は会計基準に従って設備を5年かけて減価償却します。"
+  },
+  "172": {
+    "en": "Our marketing strategy aims to differentiate our products from competitors through innovation.",
+    "ja": "当社のマーケティング戦略は、革新を通じて当社の製品を競合他社から差別化することを目的としています。"
+  },
+  "173": {
+    "en": "The diligent employee consistently met deadlines and exceeded performance expectations.",
+    "ja": "その勤勉な従業員は一貫して期限を守り、パフォーマンスの期待を超えました。"
+  },
+  "174": {
+    "en": "A discrepancy between the recorded inventory and the physical count requires investigation.",
+    "ja": "記録された在庫と実地在庫数の間の食い違いは調査が必要です。"
+  },
+  "175": {
+    "en": "The investment portfolio was diversified to reduce risk across multiple asset classes.",
+    "ja": "投資ポートフォリオは複数の資産クラス全体のリスクを軽減するために多様化されました。"
+  },
+  "176": {
+    "en": "Employees are eligible for health insurance benefits after completing a six-month probation period.",
+    "ja": "従業員は6か月の試用期間を完了した後、健康保険給付を受ける資格があります。"
+  },
+  "177": {
+    "en": "The celebrity's endorsement of the product significantly increased brand awareness and sales.",
+    "ja": "その有名人による製品の推薦は、ブランド認知度と売上を大幅に増加させました。"
+  },
+  "178": {
+    "en": "This employment contract entitles the employee to 20 days of annual paid leave.",
+    "ja": "この雇用契約は従業員に年間20日の有給休暇を取得する権利を与えます。"
+  },
+  "179": {
+    "en": "The salary package is equivalent to what similar positions offer in the industry.",
+    "ja": "その給与パッケージは業界の同様の職務が提供するものと同等です。"
+  },
+  "180": {
+    "en": "The stock price experienced significant fluctuation due to market volatility and economic uncertainty.",
+    "ja": "株価は市場のボラティリティと経済的不確実性により大きな変動を経験しました。"
+  },
+  "181": {
+    "en": "We are expanding our business by opening new franchise outlets in major cities.",
+    "ja": "私たちは主要都市に新しいフランチャイズ店舗をオープンすることでビジネスを拡大しています。"
+  },
+  "182": {
+    "en": "The company implemented strict fraud detection measures to protect customer data.",
+    "ja": "同社は顧客データを保護するための厳格な詐欺検出対策を導入した。"
+  },
+  "183": {
+    "en": "The organizational hierarchy clearly defines the reporting structure and responsibilities.",
+    "ja": "組織の階層構造は報告体制と責任を明確に定義している。"
+  },
+  "184": {
+    "en": "The implication of this policy change will affect our entire supply chain.",
+    "ja": "このポリシー変更の影響はサプライチェーン全体に及びます。"
+  },
+  "185": {
+    "en": "The sales team received a performance incentive to exceed quarterly targets.",
+    "ja": "営業チームは四半期目標を超えるためのパフォーマンスインセンティブを受け取った。"
+  },
+  "186": {
+    "en": "Investing in cloud infrastructure improved our system reliability and scalability.",
+    "ja": "クラウドインフラへの投資は、システムの信頼性とスケーラビリティを向上させた。"
+  },
+  "187": {
+    "en": "Our innovative product design has gained recognition in the international market.",
+    "ja": "当社の革新的な製品デザインは国際市場で認識を得ています。"
+  },
+  "188": {
+    "en": "The company values integrity and transparency in all business transactions.",
+    "ja": "同社はすべてのビジネス取引において誠実さと透明性を重視しています。"
+  },
+  "189": {
+    "en": "An interim CEO was appointed until a permanent replacement could be found.",
+    "ja": "正規の後任者が見つかるまで、暫定的なCEOが任命されました。"
+  },
+  "190": {
+    "en": "The board has mandated all departments to reduce operational costs by 15%.",
+    "ja": "取締役会はすべての部門に運営コストを15％削減することを義務付けた。"
+  },
+  "191": {
+    "en": "The merger between two leading companies created a market powerhouse.",
+    "ja": "2つの大手企業の合併は市場の強力なプレイヤーを生み出しました。"
+  },
+  "192": {
+    "en": "Both parties agreed to mutual benefits in the partnership agreement.",
+    "ja": "両当事者はパートナーシップ契約において相互の利益に同意した。"
+  },
+  "193": {
+    "en": "All employees have an obligation to comply with the company code of conduct.",
+    "ja": "全従業員は企業行動規範を遵守する義務があります。"
+  },
+  "194": {
+    "en": "The accounting oversight prevented a significant financial error.",
+    "ja": "会計監督により重大な財務エラーが防止されました。"
+  },
+  "195": {
+    "en": "Several employees petitioned management for improved working conditions.",
+    "ja": "複数の従業員が改善された勤務環境を求めて経営陣に請願しました。"
+  },
+  "196": {
+    "en": "The candidate demonstrated proficient skills in software development and project management.",
+    "ja": "その候補者はソフトウェア開発とプロジェクト管理における熟練したスキルを示しました。"
+  },
+  "197": {
+    "en": "The prominent industry leader shared insights at our international conference.",
+    "ja": "著名な業界リーダーが国際会議で見識を共有しました。"
+  },
+  "198": {
+    "en": "We are screening prospective candidates for the new management position.",
+    "ja": "新しい管理職ポジションの見込みのある候補者を選別しています。"
+  },
+  "199": {
+    "en": "The project proposal included a clear rationale for the investment.",
+    "ja": "プロジェクト提案には投資の明確な根拠が含まれていました。"
+  },
+  "200": {
+    "en": "The finance team will reconcile the discrepancies between the two accounting reports.",
+    "ja": "財務チームは2つの会計報告書の差異を照合します。"
+  },
+  "201": {
+    "en": "The company eliminated redundant positions to streamline operations.",
+    "ja": "同社は業務を効率化するために余剰なポジションを廃止しました。"
+  },
+  "202": {
+    "en": "We only partner with reputable suppliers to maintain quality standards.",
+    "ja": "品質基準を維持するために、評判の良いサプライヤーのみとパートナーシップを組みます。"
+  },
+  "203": {
+    "en": "The audit team conducted a thorough scrutiny of all financial records.",
+    "ja": "監査チームはすべての財務記録を詳細に精査しました。"
+  },
+  "204": {
+    "en": "Our sophisticated analytics platform provides deep insights into customer behavior.",
+    "ja": "当社の高度な分析プラットフォームは顧客行動に関する詳細な洞察を提供します。"
+  },
+  "205": {
+    "en": "Competitive incentives stimulate employee motivation and productivity.",
+    "ja": "競争力のあるインセンティブは従業員のモチベーションと生産性を促進します。"
+  },
+  "206": {
+    "en": "The compliance department enforces stringent regulations across all operations.",
+    "ja": "コンプライアンス部門はすべての運営で厳格な規制を適用します。"
+  },
+  "207": {
+    "en": "The company made a substantial investment in research and development.",
+    "ja": "同社は研究開発に相当な投資を行いました。"
+  },
+  "208": {
+    "en": "The surplus inventory will be cleared through a year-end promotional sale.",
+    "ja": "余剰在庫は年末セールを通じてクリアされます。"
+  },
+  "209": {
+    "en": "Our sustainable business practices reduce environmental impact while maintaining profitability.",
+    "ja": "当社の持続可能なビジネス慣行は環境への影響を削減しながら収益性を維持しています。"
+  },
+  "210": {
+    "en": "The project delivered tangible results that exceeded our initial expectations.",
+    "ja": "このプロジェクトは当初の期待を超える具体的な成果をもたらしました。"
+  },
+  "211": {
+    "en": "The company decided to terminate the contract with the vendor due to poor service quality.",
+    "ja": "同社はサービス品質の低下により、ベンダーとの契約を終了することを決定した。"
+  },
+  "212": {
+    "en": "All financial transactions must be recorded in the accounting system within 24 hours.",
+    "ja": "すべての財務取引は24時間以内に会計システムに記録される必要があります。"
+  },
+  "213": {
+    "en": "Transparency in corporate governance is essential to maintain investor confidence.",
+    "ja": "企業統治の透明性は投資家の信頼を維持するために不可欠である。"
+  },
+  "214": {
+    "en": "Negative media coverage could undermine the credibility of our brand.",
+    "ja": "否定的なメディア報道はブランドの信頼性を損なう可能性がある。"
+  },
+  "215": {
+    "en": "We need to validate all customer data before processing the payment.",
+    "ja": "支払い処理前にすべての顧客データを検証する必要があります。"
+  },
+  "216": {
+    "en": "The expansion plan is viable only if we secure adequate funding.",
+    "ja": "拡張計画は十分な資金調達が確保できた場合にのみ実行可能である。"
+  },
+  "217": {
+    "en": "Our system is vulnerable to cyber attacks without proper security measures.",
+    "ja": "適切なセキュリティ対策がなければ、当社のシステムはサイバー攻撃に脆弱である。"
+  },
+  "218": {
+    "en": "The client requested to waive the late payment fee under special circumstances.",
+    "ja": "クライアントは特殊な状況下での遅延手数料の免除を要請した。"
+  },
+  "219": {
+    "en": "This investment is expected to yield a 15% annual return.",
+    "ja": "この投資は年間15%の利回りが期待されている。"
+  },
+  "220": {
+    "en": "The procurement department is responsible for sourcing raw materials at competitive prices.",
+    "ja": "調達部門は競争力のある価格で原材料を調達する責任がある。"
+  },
+  "221": {
+    "en": "The company developed a proprietary technology that provides a competitive advantage.",
+    "ja": "同社は競争優位性をもたらす独自技術を開発した。"
+  },
+  "222": {
+    "en": "Several major banks formed a consortium to develop a new blockchain platform.",
+    "ja": "複数の大手銀行が新しいブロックチェーン・プラットフォームを開発するためのコンソーシアムを結成した。"
+  },
+  "223": {
+    "en": "We will expedite the shipment to meet the client's urgent deadline.",
+    "ja": "クライアントの緊急な納期に対応するため、配送を迅速化する。"
+  },
+  "224": {
+    "en": "The management team decided to leverage social media for marketing purposes.",
+    "ja": "経営陣はマーケティング目的でソーシャルメディアを活用することを決定した。"
+  },
+  "225": {
+    "en": "Risk mitigation strategies are implemented to prevent potential business disruptions.",
+    "ja": "潜在的なビジネス中断を防止するためのリスク軽減戦略が実装されている。"
+  },
+  "226": {
+    "en": "A neutral third party will mediate the dispute between the two companies.",
+    "ja": "中立的な第三者が両社間の紛争を仲裁する。"
+  },
+  "227": {
+    "en": "The software license provides perpetual access to the platform without expiration.",
+    "ja": "ソフトウェアライセンスは有効期限なしでプラットフォームへの永続的なアクセスを提供する。"
+  },
+  "228": {
+    "en": "Companies must comply with statutory requirements for environmental protection.",
+    "ja": "企業は環境保全に関する法定要件を遵守する必要があります。"
+  },
+  "229": {
+    "en": "Employees accrue paid leave at a rate of 2.5 days per month.",
+    "ja": "従業員は月2.5日の割合で有給休暇を蓄積する。"
+  },
+  "230": {
+    "en": "The investor purchased a 20% equity stake in the startup company.",
+    "ja": "投資家はスタートアップ企業の20%の株式を購入した。"
+  },
+  "231": {
+    "en": "The fiscal year ends on March 31st for most Japanese corporations.",
+    "ja": "ほとんどの日本企業の会計年度は3月31日に終了する。"
+  },
+  "232": {
+    "en": "Good governance practices are critical for sustainable business growth.",
+    "ja": "良好なガバナンス慣行は持続可能なビジネス成長にとって重要である。"
+  },
+  "233": {
+    "en": "The insurance company will indemnify the policyholder against property damage.",
+    "ja": "保険会社は保険契約者を物損に対して補償する。"
+  },
+  "234": {
+    "en": "The case falls under the jurisdiction of the Tokyo District Court.",
+    "ja": "この事件は東京地方裁判所の管轄に属している。"
+  },
+  "235": {
+    "en": "The bankrupt company was forced to liquidate its assets to pay creditors.",
+    "ja": "破産した企業は債権者に支払うために資産を清算することを強制された。"
+  },
+  "236": {
+    "en": "The company successfully identified a niche market for eco-friendly products.",
+    "ja": "同社は環境に優しい製品のニッチ市場を正常に特定した。"
+  },
+  "237": {
+    "en": "Digital transformation represents a paradigm shift in how businesses operate.",
+    "ja": "デジタル変革はビジネス運営方法のパラダイムシフトを表している。"
+  },
+  "238": {
+    "en": "The investment portfolio consists of stocks, bonds, and real estate properties.",
+    "ja": "投資ポートフォリオは株式、債券、および不動産で構成されている。"
+  },
+  "239": {
+    "en": "The cloud infrastructure is highly scalable to accommodate growing user demand.",
+    "ja": "クラウドインフラストラクチャは増加するユーザー需要に対応するために非常に拡張可能である。"
+  },
+  "240": {
+    "en": "The merger is expected to create significant synergy between the two organizations.",
+    "ja": "この統合は両組織間に大きな相乗効果をもたらすことが期待されている。"
+  },
+  "241": {
+    "en": "The company achieved a remarkable turnaround in profitability within two quarters.",
+    "ja": "同社は2四半期以内に収益性の劇的な業績回復を達成した。"
+  },
+  "242": {
+    "en": "We need to improve the utilization rate of our manufacturing equipment to reduce costs.",
+    "ja": "コスト削減のため、製造設備の稼働率を向上させる必要がある。"
+  },
+  "243": {
+    "en": "The project manager expressed concerns about the excessive workload assigned to the team.",
+    "ja": "プロジェクトマネージャーはチームに割り当てられた過剰な業務量について懸念を表明した。"
+  },
+  "244": {
+    "en": "The gains in one division offset the losses in another, resulting in stable overall performance.",
+    "ja": "ある事業部の利益が別の事業部の損失を相殺し、全体として安定した業績となった。"
+  },
+  "245": {
+    "en": "Our customer retention rate improved significantly after implementing the loyalty program.",
+    "ja": "ロイヤリティプログラムの導入後、顧客定着率が大幅に向上した。"
+  },
+  "246": {
+    "en": "The acquisition of the competitor strengthened our market position considerably.",
+    "ja": "競合企業の買収により、当社の市場地位が大幅に強化された。"
+  },
+  "247": {
+    "en": "Strict compliance with data protection regulations is essential for our operations.",
+    "ja": "データ保護規制への厳格な法令遵守は、当社の事業に不可欠である。"
+  },
+  "248": {
+    "en": "The company's diversification strategy includes expanding into three new markets.",
+    "ja": "同社の多角化戦略には、3つの新しい市場への進出が含まれている。"
+  },
+  "249": {
+    "en": "A feasibility study confirmed that the new product launch is viable within budget constraints.",
+    "ja": "実現可能性調査により、予算制約内での新製品発売が実行可能であることが確認された。"
+  },
+  "250": {
+    "en": "Performance bonuses incentivize employees to exceed their sales targets.",
+    "ja": "成果給は従業員に営業目標を超過達成するよう動機付けする。"
+  },
+  "251": {
+    "en": "The company faced insolvency after failing to secure additional funding.",
+    "ja": "追加資金調達に失敗した同社は支払不能に直面した。"
+  },
+  "252": {
+    "en": "The integration of the two IT systems is expected to be completed by next quarter.",
+    "ja": "2つのITシステムの統合は来四半期までに完了する予定である。"
+  },
+  "253": {
+    "en": "The startup plans to monetize its user base through a subscription model.",
+    "ja": "このスタートアップはサブスクリプションモデルを通じてユーザーベースを収益化する計画である。"
+  },
+  "254": {
+    "en": "This contract sets a precedent for future negotiations with similar clients.",
+    "ja": "この契約は、類似クライアントとの今後の交渉の先例となる。"
+  },
+  "255": {
+    "en": "If the supplier defaults, we have recourse through arbitration.",
+    "ja": "サプライヤーがデフォルトした場合、仲裁を通じて求償権がある。"
+  },
+  "256": {
+    "en": "The company consulted all stakeholders before making the strategic decision.",
+    "ja": "同社は戦略的決定を下す前に、すべての利害関係者と協議した。"
+  },
+  "257": {
+    "en": "The revenue trajectory shows a consistent upward trend over the past three years.",
+    "ja": "収益推移は過去3年間一貫した上昇傾向を示している。"
+  },
+  "258": {
+    "en": "The CEO announced a succession plan to ensure continuity of leadership.",
+    "ja": "CEOは経営の継続性を確保するための後継者計画を発表した。"
+  },
+  "259": {
+    "en": "The factory will retrofit its production line with newer automation technology.",
+    "ja": "同工場は生産ラインを新しい自動化技術で改良する予定である。"
+  },
+  "260": {
+    "en": "The vendor requires upfront payment before shipment of the goods.",
+    "ja": "ベンダーは商品発送前に前払いを要求している。"
+  },
+  "261": {
+    "en": "Employees with vested interests in the pension plan receive full benefits upon retirement.",
+    "ja": "年金制度に権利が確定した従業員は、退職時に全額給付を受け取る。"
+  },
+  "262": {
+    "en": "The finance team employs hedging strategies to protect against currency fluctuations.",
+    "ja": "財務チームは為替変動に対する保護のためにリスクヘッジ戦略を採用している。"
+  },
+  "263": {
+    "en": "The company initiated liquidation procedures following bankruptcy declaration.",
+    "ja": "同社は破産宣告後、資産清算手続きを開始した。"
+  },
+  "264": {
+    "en": "The manufacturing company uses outsourcing for non-core functions to reduce operational expenses.",
+    "ja": "製造企業は運営費削減のため、非中核業務を業務委託している。"
+  },
+  "265": {
+    "en": "Comprehensive due diligence was conducted before finalizing the merger agreement.",
+    "ja": "統合契約の最終化前に、包括的なデューデリジェンスが実施された。"
+  },
+  "266": {
+    "en": "The platform has successfully developed multiple revenue streams through subscriptions and advertising.",
+    "ja": "このプラットフォームはサブスクリプションと広告を通じて複数の収益源を開発した。"
+  },
+  "267": {
+    "en": "The company announced the forthcoming launch of its flagship product next month.",
+    "ja": "同社は来月のフラッグシップ製品の今後の発売を発表した。"
+  },
+  "268": {
+    "en": "The proximity of the new office to the main headquarters facilitates daily coordination.",
+    "ja": "新しいオフィスが本社に近接しているため、日々の調整が容易になった。"
+  },
+  "269": {
+    "en": "The defendant's assertion regarding the contract terms was disputed during the trial.",
+    "ja": "契約条件に関する被告の主張は、裁判中に異議を唱えられた。"
+  },
+  "270": {
+    "en": "The incumbent management team successfully navigated the company through the economic downturn.",
+    "ja": "現職の経営陣は経済低迷を通じて会社をうまく切り抜けた。"
+  },
   "271": {
     "en": "We express our appreciation for your continued support and partnership.",
     "ja": "継続的なサポートとパートナーシップに対する感謝を表明します。"
