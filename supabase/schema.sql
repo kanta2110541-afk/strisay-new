@@ -86,3 +86,10 @@ alter table public.vocabulary_progress enable row level security;
 create policy "自分のデータのみ操作" on public.vocabulary_progress
   for all using (auth.uid() = user_id);
 create index idx_vocab_progress_user on public.vocabulary_progress(user_id, is_mastered);
+
+-- 権限付与（authenticatedロールに操作権限を付与）
+grant insert, select, update on public.study_logs to authenticated;
+grant insert, select, update on public.weak_words to authenticated;
+grant insert, select, update on public.vocabulary_progress to authenticated;
+grant insert, select, update on public.daily_stats to authenticated;
+grant select on public.users to authenticated;
