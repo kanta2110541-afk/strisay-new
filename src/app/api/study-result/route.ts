@@ -17,12 +17,13 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Invalid request" }, { status: 400 });
   }
 
-  await supabase.from("study_logs").insert({
+  const { error: insertError } = await supabase.from("study_logs").insert({
     user_id: user.id,
     vocabulary_id,
     is_correct,
     response_time,
   });
+  if (insertError) console.error("study_logs insert error:", insertError);
 
   const { data: existingWeak } = await supabase
     .from("weak_words")
